@@ -1,8 +1,3 @@
 _______________README__________________
 
-       CYCLE DE GIT :
-- PUSH
-- PULL
-- COMMIT
-- ADD
-- CLONE
+- Créer par Anthony Stephano, etudiants a l'INSI L1 C
