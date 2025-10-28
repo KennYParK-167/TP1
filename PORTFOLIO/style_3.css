@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+.congrats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}

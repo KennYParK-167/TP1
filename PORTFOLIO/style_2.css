@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  height: 100%;
+}
+.nom {
+  width: 200px;
+  height: 10px;
+  border: solid 1px black;
+  border-radius: 15px;
+  padding: 6px;
+  outline: none;
+}
+.prenom {
+  width: 200px;
+  height: 10px;
+  border: solid 1px black;
+  border-radius: 15px;
+  padding: 6px;
+  outline: none;
+}
+.e-mail {
+  width: 200px;
+  height: 10px;
+  border: solid 1px black;
+  border-radius: 15px;
+  padding: 6px;
+  outline: none;
+}
+.verify {
+  width: 200px;
+  height: 10px;
+  border: solid 1px black;
+  border-radius: 15px;
+  padding: 6px;
+  outline: none;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

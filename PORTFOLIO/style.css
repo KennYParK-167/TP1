@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+body {
+  height: 100%;
+}
+.logo {
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo > h3 {
+  text-decoration: underline orangered;
+}
+#image {
+  border: solid rgb(0, 0, 0);
+  border-radius: 2px;
+}
+.AImage {
+  display: flex;
+}
+.nom {
+  display: flex;
+}
+.Apropos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 68, 0, 0.877);
+}
+.LienInt {
+  display: flex;
+  flex-direction: column;
+}
